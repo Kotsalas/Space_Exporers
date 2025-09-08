@@ -1,0 +1,421 @@
+[
+  {
+    "key": "lucy-run-down",
+    "frameRate": 16,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [32, 33, 34, 35, 36, 37, 38, 39]
+  },
+  {
+    "key": "lucy-run-right",
+    "frameRate": 16,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [40, 41, 42, 43, 44, 45, 46, 47]
+  },
+  {
+    "key": "lucy-run-up",
+    "frameRate": 16,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [48, 49, 50, 51, 52, 53, 54, 55]
+  },
+  {
+    "key": "lucy-run-left",
+    "frameRate": 16,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [56, 57, 58, 59, 60, 61, 62, 63]
+  },
+  {
+    "key": "lucy-walk-down",
+    "frameRate": 4,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [64, 65, 66, 67]
+  },
+  {
+    "key": "lucy-walk-right",
+    "frameRate": 4,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [72, 73, 74, 75]
+  },
+  {
+    "key": "lucy-walk-up",
+    "frameRate": 4,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [80, 81, 82, 83]
+  },
+  {
+    "key": "lucy-walk-left",
+    "frameRate": 4,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [88, 89, 90, 91]
+  },
+  {
+    "key": "lucy-idle-down",
+    "frameRate": 10,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7]
+  },
+  {
+    "key": "lucy-idle-right",
+    "frameRate": 10,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [8, 9, 10, 11, 12, 13, 14, 15]
+  },
+  {
+    "key": "lucy-idle-up",
+    "frameRate": 10,
+    "repeat": -1,
+    "assetKey": "lucy",
+    "frames": [16,  17, 18, 19, 20, 21, 22, 23]
+  },
+  {
+    "key": "lucy-idle-left",
+    "frameRate": 10,
+    "repeat": -1,
+    "assetKey": "lucy",
+    "frames": [24, 25, 26, 27, 28, 29, 30, 31]
+  },
+  {
+    "key": "lucy-punch-down-1",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [96, 97, 98, 96]
+  },
+  {
+    "key": "lucy-punch-down-2",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [100, 101, 102, 100]
+  },
+  {
+    "key": "lucy-punch-down-3",
+    "frameRate": 18,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [128, 129, 130, 131, 132, 133, 134]
+  },
+  {
+    "key": "lucy-punch-right-1",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [104, 105, 106, 104]
+  },
+  {
+    "key": "lucy-punch-right-2",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [108, 109, 110, 108]
+  },
+  {
+    "key": "lucy-punch-right-3",
+    "frameRate": 18,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [128, 129, 130, 131, 132, 133, 134]
+  },
+  {
+    "key": "lucy-punch-up-1",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [120, 121, 122, 120]
+  },
+  {
+    "key": "lucy-punch-up-2",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [124, 125, 126, 124]
+  },
+  {
+    "key": "lucy-punch-up-3",
+    "frameRate": 18,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [128, 129, 130, 131, 132, 133, 134]
+  },
+  {
+    "key": "lucy-punch-left-1",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [112, 113, 114, 112]
+  },
+  {
+    "key": "lucy-punch-left-2",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [116, 117, 118, 116]
+  },
+  {
+    "key": "lucy-punch-left-3",
+    "frameRate": 18,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [128, 129, 130, 131, 132, 133, 134]
+  },
+  {
+    "key": "lucy-damaged-down",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [136, 137, 136]
+  },
+  {
+    "key": "lucy-damaged-right",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [144, 145, 144]
+  },
+  {
+    "key": "lucy-damaged-up",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [152, 153, 152]
+  },
+  {
+    "key": "lucy-damaged-left",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "lucy",
+    "frames": [160, 161, 160]
+  },
+  {
+    "key": "spaceship-exit-idle",
+    "frameRate": 1,
+    "repeat": -1,
+    "assetKey": "spaceship-exit",
+    "frames": [0,1]
+  },
+  {
+    "key": "spaceship-exit-open",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "spaceship-exit",
+    "frames": [8, 9, 10, 11, 12, 13, 14, 15]
+  },
+  {
+    "key": "planet-exit-idle",
+    "frameRate": 8,
+    "repeat": -1,
+    "assetKey": "planet-exit",
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7]
+  },
+  {
+    "key": "planet-exit-open",
+    "frameRate": 8,
+    "repeat": -1,
+    "assetKey": "planet-exit",
+    "frames": [9, 10, 11, 12, 13, 14, 15, 16]
+  },
+  {
+    "key": "fields-tree-idle",
+    "frameRate": 4,
+    "repeat": -1,
+    "assetKey": "fields-tree",
+    "frames": [0, 1, 2, 3]
+  },
+  {
+    "key": "fields-box-brake",
+    "frameRate": 8,
+    "repeat": 0,
+    "assetKey": "fields-box",
+    "frames": [0, 1, 2, 3, 4, 5, 6, 7]
+  },
+  {
+    "key": "fields-campfire-idle",
+    "frameRate": 8,
+    "repeat": -1,
+    "assetKey": "fields-campfire",
+    "frames": [0, 1, 2, 3, 4, 5]
+  },
+  {
+    "key": "fields-ork-attack-down",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [0, 1, 2, 3, 4, 5]
+  },
+  {
+    "key": "fields-ork-attack-left",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [6, 7, 8, 9, 10, 11]
+  },
+  {
+    "key": "fields-ork-attack-right",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [12, 13, 14, 15, 16, 17]
+  },
+  {
+    "key": "fields-ork-attack-up",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [18, 19, 20, 21, 22, 23]
+  },
+  {
+    "key": "fields-ork-walk-down",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [24, 25, 26, 27, 28, 29]
+  },
+  {
+    "key": "fields-ork-walk-left",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [30, 31, 32, 33, 34, 35]
+  },
+  {
+    "key": "fields-ork-walk-right",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [36, 37, 38, 39, 40, 41]
+  },
+  {
+    "key": "fields-ork-walk-up",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [42, 43, 44, 45, 46, 47]
+  },
+  {
+    "key": "fields-ork-death-down",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [48, 49, 50, 51, 52, 53]
+  },
+  {
+    "key": "fields-ork-death-left",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [54, 55, 56, 57, 58, 59]
+  },
+  {
+    "key": "fields-ork-death-right",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [60, 61, 62, 63, 64, 65]
+  },
+  {
+    "key": "fields-ork-death-up",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-ork",
+    "frames": [66, 67, 68, 69, 70, 71]
+  },
+  {
+    "key": "fields-archer-attack-down",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [0, 1, 2, 3, 4, 5]
+  },
+  {
+    "key": "fields-archer-attack-left",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [6, 7, 8, 9, 10, 11]
+  },
+  {
+    "key": "fields-archer-attack-right",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [12, 13, 14, 15, 16, 17]
+  },
+  {
+    "key": "fields-archer-attack-up",
+    "frameRate": 12,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [18, 19, 20, 21, 22, 23]
+  },
+  {
+    "key": "fields-archer-idle-down",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [24, 25, 26, 27]
+  },
+  {
+    "key": "fields-archer-idle-left",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [30, 31, 32, 33]
+  },
+  {
+    "key": "fields-archer-idle-right",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [36, 37, 38, 39]
+  },
+  {
+    "key": "fields-archer-idle-up",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [42, 43, 44, 45]
+  },
+  {
+    "key": "fields-archer-death-down",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [48, 49, 50, 51, 52, 53]
+  },
+  {
+    "key": "fields-archer-death-left",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [54, 55, 56, 57, 58, 59]
+  },
+  {
+    "key": "fields-archer-death-right",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [60, 61, 62, 63, 64, 65]
+  },
+  {
+    "key": "fields-archer-death-up",
+    "frameRate": 6,
+    "repeat": 0,
+    "assetKey": "fields-archer",
+    "frames": [66, 67, 68, 69, 70, 71]
+  },
+  {
+    "key": "bullet",
+    "frameRate": 8,
+    "repeat": -1,
+    "assetKey": "bullet"
+  }
+]

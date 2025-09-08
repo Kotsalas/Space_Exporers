@@ -1,0 +1,107 @@
+[
+  {
+    "path": "assets/images/mine",
+    "files": [
+      {
+        "type": "spritesheet",
+        "key": "lucy",
+        "url": "lucy-spritesheet.png",
+        "frameConfig": { "frameWidth": 32, "frameHeight": 32 }
+      },
+      {
+        "type": "spritesheet",
+        "key": "bullet",
+        "url": "bullet.png",
+        "frameConfig": { "frameWidth": 32, "frameHeight": 32 }
+      },
+      {
+        "type": "spritesheet",
+        "key": "chest",
+        "url": "chest.png",
+        "frameConfig": { "frameWidth": 32, "frameHeight": 32 }
+      },
+      {
+        "type": "tilemapTiledJSON",
+        "key": "map",
+        "url": "map.tmj"
+      },
+      {
+        "type": "image",
+        "key": "spaceship-tileset",
+        "url": "spaceship-tileset.png"
+      },
+      {
+        "type": "spritesheet",
+        "key": "spaceship-exit",
+        "url": "spaceship-exit.png",
+        "frameConfig": { "frameWidth": 96, "frameHeight": 96 }
+      },
+      {
+        "type": "spritesheet",
+        "key": "planet-exit",
+        "url": "planet-exit.png",
+        "frameConfig": { "frameWidth": 32, "frameHeight": 42 }
+      }
+    ]
+  },
+  {
+    "path": "assets/images/not-mine",
+    "files": [
+      {
+        "type": "image",
+        "key": "free-spaceship-interior-tileset",
+        "url": "free-spaceship-interior-tileset.png"
+      },
+      {
+        "type": "image",
+        "key": "galaxy-bg",
+        "url": "galaxy-bg.png"
+      },
+      {
+        "type": "image",
+        "key": "fields-planet-tileset",
+        "url": "fields-planet-tileset.png"
+      },
+      {
+        "type": "spritesheet",
+        "key": "fields-tree",
+        "url": "fields-tree.png",
+        "frameConfig": { "frameWidth": 67, "frameHeight": 80 }
+      },
+      {
+        "type": "spritesheet",
+        "key": "fields-box",
+        "url": "fields-box.png",
+        "frameConfig": { "frameWidth": 21, "frameHeight": 20 }
+      },
+      {
+        "type": "spritesheet",
+        "key": "fields-campfire",
+        "url": "fields-campfire.png",
+        "frameConfig": { "frameWidth": 32, "frameHeight": 32 }
+      },
+      {
+        "type": "spritesheet",
+        "key": "fields-ork",
+        "url": "fields-ork.png",
+        "frameConfig": { "frameWidth": 48, "frameHeight": 48 }
+      },
+      {
+        "type": "spritesheet",
+        "key": "fields-archer",
+        "url": "fields-archer.png",
+        "frameConfig": { "frameWidth": 48, "frameHeight": 48 }
+      },
+      {
+        "type": "image",
+        "key": "fields-archer-arrow",
+        "url": "fields-archer-arrow.png"
+      },
+      {
+        "type": "image",
+        "key": "crystal-green",
+        "url": "crystals/crystal-green.png"
+      }
+    ]
+  }
+]
