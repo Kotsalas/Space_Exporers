@@ -82,12 +82,17 @@ export class FieldsOrk extends Phaser.Physics.Arcade.Sprite {
         // play animation for hitting
         if (typeof this.target.takeDamage === 'function') {
             this.scene.time.delayedCall(400, () => {
-                this.target.takeDamage(this.attackDamage, this);
+                const dx = this.target.x - this.x;
+                const dy = this.target.y - this.y;
+                const distance = Math.hypot(dx, dy);
+                if (distance <= this.attackRange) {
+                    this.target.takeDamage(this.attackDamage, this);
+                }
             })
         }
     }
     
-    takeDamage(amount,) {
+    takeDamage(amount) {
         this.hp -= amount;
 
         if (this.hp <= 0) {

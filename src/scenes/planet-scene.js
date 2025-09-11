@@ -44,7 +44,7 @@ export class PlanetScene extends Phaser.Scene {
      .setScrollFactor(0);
 
     // map layers
-    const planetKey = 'fieldsPlanet'; // change this dynamically later
+    planetKey = 'fieldsPlanet'; // change this dynamically later // create new file just to save planet data
     const planetTiles = PlanetTilesets[planetKey];
 
     const tileSize = 32;

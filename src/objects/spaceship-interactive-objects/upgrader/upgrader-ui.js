@@ -1,5 +1,6 @@
 import { LucyState } from "../../../lucy-state.js";
 import { GameState } from "../../../game-state.js";
+import { PlanetTilesets } from "../../../../assets/data/planet-tilesets.js";
 
 export class UpgraderUI {
   constructor(scene, player) {
@@ -75,6 +76,7 @@ export class UpgraderUI {
 
   _generateRequiredItems() {
     const possibleItems = ['crystal-green', 'chest'];
+    // const possibleItems = PlanetTilesets[this.scene.planetKey.crystals] // create new file just to save the planet data
     const newRequirements = {};
 
     // Choose how many different item types to require (1 to 3 for example)
